@@ -14,12 +14,12 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 📊 I'm **Mohamed Abdo**, a passionate Data Developer / Data Specialist.
-- 💻 Technologies I use daily: **Python**, **SQL**, **Pandas**, **Data Pipelines**
-- 📖 Currently learning and sharpening my skills in **Data Engineering & Backend Systems**
-- ⚡ Fun fact: I enjoy converting raw, messy data into clean, meaningful insights!
+### 💻 About Me:
 
+- 📊 I'm **Mohamed Abdo**, a passionate Data Engineer / Data Developer.
+- 💻 Technologies I use daily: **Python**, **SQL**, **Pandas**, **Git**, & **Docker**
+- 📚 Currently learning and sharpening my skills in **Data Engineering & Backend Systems**
+- ⚡ Fun fact: I enjoy converting raw, messy data into clean, efficient Data Pipelines!
 🧑‍💻 **Tech & Tools I Work On:**
 
 <p align="center">
