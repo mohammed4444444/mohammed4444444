@@ -1,56 +1,16 @@
-x# Hi there, I'm Mohamed Abdo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+x# Hi there, I'm Mohamed Abdo! 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/[Your-LinkedIn]" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://x.com/[Your-Twitter]" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="mailto:[Your-Email]">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" style="display:inline-block;" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
-</p>
+### 📑 About Me:
+* 👨‍💻 I'm Mohamed Abdo, a passionate Data Developer / Data Engineer.
+* 💻 Technologies I use daily: Python, SQL, Pandas, Git, & Docker.
+* 📚 Currently learning and sharpening my skills in Data Engineering & Backend Systems.
+* ⚡ Fun fact: I enjoy converting raw, messy data into clean, efficient Data Pipelines!
 
 ---
 
-### 💻 About Me:
-
-- 📊 I'm **Mohamed Abdo**, a passionate **Data Developer / Data Engineer**.
-- 💻 Technologies I use daily: **Python**, **SQL**, **Pandas**, **Git**, & **Docker**.
-- 📚 Currently learning and sharpening my skills in **Data Engineering & Backend Systems**.
-- ⚡ Fun fact: I enjoy converting raw, messy data into clean, efficient Data Pipelines!
-
----
-
-### 🧑‍💻 Tech & Tools I Work On:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sql,mysql,postgres,mongodb,git,github,docker,vscode,bash" />
-  </a>
-</p>
-
----
-
-### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=[Your-GitHub-Username]&theme=dark&mode=weekly" alt="Mohamed's GitHub Streak" />
-</p>
-
-<!--START_SECTION:waka-->
-<p align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-Data%20%26%20Python-blue?style=flat" alt="Code Time" />
-</p>
-<!--END_SECTION:waka-->
-
----
-
-### 💡 Favorite Data Quote:
-
-• <i>“Errors using inadequate data are much less than those using no data at all.”— Charles Babbage</i>
+### 🛠️ Tech Stack & Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" heig
