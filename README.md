@@ -1,4 +1,4 @@
-x# Hi there, I'm Mohamed Abdo! 👋
+# Hi there, I'm Mohamed Abdo! 👋
 
 ### 📑 About Me:
 * 👨‍💻 I'm Mohamed Abdo, a passionate Data Developer / Data Engineer.
